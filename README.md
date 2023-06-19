@@ -10,4 +10,4 @@ It is just a pet project to give an example of my **objective-c** knowledge and 
 - Core Animation.
 
 <img src="ScreenShot_iPhone_13.png" height="500">￼
-<img src="Animation.gif" height="500">￼
+<img src="Animation.gif" width="228" height="500">￼
